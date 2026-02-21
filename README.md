@@ -1,2 +1,2 @@
 # Computation-Physics
-Useful tool classes to apply to compute and solve different mathematics and physics problems
+Repository with different classes build in C++ that can be used as tools to solve physics or mathematics problems. 
